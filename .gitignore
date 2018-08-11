@@ -17,3 +17,7 @@ Selection_Sort/Selection_Sort/obj/Debug/netcoreapp2.0/Selection_Sort.pdb
 Bubble Sort/.vs/Bubble Sort/v15/Server/sqlite3/storage.ide-wal
 Bubble Sort/Bubble Sort/Bubble Sort.csproj
 Bubble Sort/Bubble Sort.sln
+Bubble Sort/Bubble Sort/bin/Debug/netcoreapp2.0/Bubble Sort.pdb
+*.dll
+*.txt
+Bubble Sort/Bubble Sort/obj/Debug/netcoreapp2.0/Bubble Sort.pdb
