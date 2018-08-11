@@ -2,7 +2,7 @@
 
 namespace Selection_Sort
 {
-    class Program
+    class SelectionSort
     {
         static void Main(string[] args)
         {
@@ -14,7 +14,7 @@ namespace Selection_Sort
             Console.WriteLine();
             
 
-            int[] sortedArray = SelectionSort(array);
+            int[] sortedArray = SortArray(array);
             Console.WriteLine("Sorted array : ");
             foreach (int x in sortedArray)
                 Console.Write(x + " ");
@@ -51,7 +51,7 @@ namespace Selection_Sort
             return array;
         }
 
-        private static int[] SelectionSort(int[] array)
+        private static int[] SortArray(int[] array)
         {
             for(int i = 0; i < array.Length ; i++)
             {

@@ -12,3 +12,4 @@ Selection_Sort/.vs/Selection_Sort/v15/Server/sqlite3/storage.ide-shm
 Selection_Sort/.vs/Selection_Sort/v15/Server/sqlite3/storage.ide
 Selection_Sort/.vs/Selection_Sort/v15/.suo
 Selection_Sort/.vs/Selection_Sort/v15/Server/sqlite3/storage.ide-wal
+*.cache
