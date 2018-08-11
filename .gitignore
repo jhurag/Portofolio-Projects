@@ -1,0 +1,19 @@
+
+*.json
+Bubble Sort/.vs/Bubble Sort/v15/.suo
+*.lock
+*.ide
+*.ide-shm
+*.cache
+Bubble Sort/Bubble Sort/obj/Bubble Sort.csproj.nuget.g.props
+*.targets
+Bubble Sort/Bubble Sort/obj/Debug/netcoreapp2.0/Bubble Sort.AssemblyInfo.cs
+Selection_Sort/.vs/Selection_Sort/DesignTimeBuild/.dtbcache
+Selection_Sort/Selection_Sort/bin/Debug/netcoreapp2.0/Selection_Sort.dll
+Selection_Sort/Selection_Sort/bin/Debug/netcoreapp2.0/Selection_Sort.pdb
+Selection_Sort/Selection_Sort/obj/Debug/netcoreapp2.0/Selection_Sort.csproj.FileListAbsolute.txt
+Selection_Sort/Selection_Sort/obj/Debug/netcoreapp2.0/Selection_Sort.dll
+Selection_Sort/Selection_Sort/obj/Debug/netcoreapp2.0/Selection_Sort.pdb
+Bubble Sort/.vs/Bubble Sort/v15/Server/sqlite3/storage.ide-wal
+Bubble Sort/Bubble Sort/Bubble Sort.csproj
+Bubble Sort/Bubble Sort.sln
