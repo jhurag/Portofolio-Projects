@@ -2,4 +2,4 @@
 Some mini C# projects that i use as portofolio.
 
 
-Use branches to circle trough projects.
+Use branches to circle through  projects.
