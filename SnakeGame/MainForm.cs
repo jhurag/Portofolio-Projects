@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace SnakeGame
 {
-    public partial class Form1 : Form
+    public partial class MainForm : Form
     {
 
         private Point[] positionSnake = new Point[256];
@@ -71,7 +71,7 @@ namespace SnakeGame
 
 
 
-        public Form1()
+        public MainForm()
         {
             InitializeComponent();
 
@@ -371,7 +371,7 @@ namespace SnakeGame
 
 
 
-        private void Form1_KeyDown(object sender, KeyEventArgs e)
+        private void MainForm_KeyDown(object sender, KeyEventArgs e)
         {
             GetInput(e);
         }
