@@ -1,5 +1,4 @@
-# Portofolio-Projects
-Some mini C# projects that i use as portofolio.
+# Barcode Number Generator and Validator
+Saw this task on one of university sites and i thought to myself why not ?
 
-
-Use branches to circle through  projects.
+![](https://i.imgur.com/OMeINjh.png)
