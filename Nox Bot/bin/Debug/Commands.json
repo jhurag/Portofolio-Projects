@@ -1,0 +1,110 @@
+﻿[
+  {
+    "NameOfCommand": "youtube",
+    "TextOfCommand": "Moj YT kanal : https://tinyurl.com/noxYT . OpieOP",
+    "MakerOfCommand": "hukyly",
+    "Deletable": true
+  },
+  {
+    "NameOfCommand": "amsg",
+    "TextOfCommand": null,
+    "MakerOfCommand": "hukyly",
+    "Deletable": false
+  },
+  {
+    "NameOfCommand": "rmsg",
+    "TextOfCommand": null,
+    "MakerOfCommand": "hukyly",
+    "Deletable": false
+  },
+  {
+    "NameOfCommand": "acom",
+    "TextOfCommand": null,
+    "MakerOfCommand": "hukyly",
+    "Deletable": true
+  },
+  {
+    "NameOfCommand": "ecom",
+    "TextOfCommand": null,
+    "MakerOfCommand": "hukyly",
+    "Deletable": false
+  },
+  {
+    "NameOfCommand": "rcom",
+    "TextOfCommand": null,
+    "MakerOfCommand": "hukyly",
+    "Deletable": false
+  },
+  {
+    "NameOfCommand": "apoints",
+    "TextOfCommand": null,
+    "MakerOfCommand": "hukyly",
+    "Deletable": false
+  },
+  {
+    "NameOfCommand": "gamble",
+    "TextOfCommand": null,
+    "MakerOfCommand": "hukyly",
+    "Deletable": false
+  },
+  {
+    "NameOfCommand": "points",
+    "TextOfCommand": null,
+    "MakerOfCommand": "hukyly",
+    "Deletable": false
+  },
+  {
+    "NameOfCommand": "uptime",
+    "TextOfCommand": null,
+    "MakerOfCommand": "hukyly",
+    "Deletable": false
+  },
+  {
+    "NameOfCommand": "komande",
+    "TextOfCommand": null,
+    "MakerOfCommand": "hukyly",
+    "Deletable": false
+  },
+  {
+    "NameOfCommand": "following",
+    "TextOfCommand": null,
+    "MakerOfCommand": "hukyly",
+    "Deletable": false
+  },
+  {
+    "NameOfCommand": "rpoints",
+    "TextOfCommand": null,
+    "MakerOfCommand": "hukyly",
+    "Deletable": false
+  },
+  {
+    "NameOfCommand": "elo",
+    "TextOfCommand": "Moj trenutni elo u SoloQ - G1.",
+    "MakerOfCommand": "hukyly",
+    "Deletable": true
+  },
+  {
+    "NameOfCommand": "fb",
+    "TextOfCommand": "Naša FB stranica - https://tinyurl.com/NoxArmy .",
+    "MakerOfCommand": "hukyly",
+    "Deletable": true
+  },
+  {
+    "NameOfCommand": "bot",
+    "TextOfCommand": "Bot napravio naš moderator hukyly ! Kappa",
+    "MakerOfCommand": "hukyly",
+    "Deletable": true
+  },
+  {
+    "NameOfCommand": "server",
+    "TextOfCommand": "EUNE. KevinTurtle ",
+    "MakerOfCommand": "hukyly",
+    "Deletable": true
+  },
+  {
+    "NameOfCommand": "discord",
+    "TextOfCommand": "Discord server gde možete da pričate sa Noxom - https://discord.gg/8Psx9Qs .",
+    "MakerOfCommand": "hukyly",
+    "Deletable": true
+  }
+]
