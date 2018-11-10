@@ -1,5 +1,6 @@
-# Portofolio-Projects
-Some mini C# projects that i use as portofolio.
+# NoxScourge Twitch Bot
+This is how bot looks :
 
+![](https://i.imgur.com/lDF7p1J.png)
 
-Use branches to circle through  projects.
+I used JSON to store data.
