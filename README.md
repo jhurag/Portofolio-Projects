@@ -1,5 +1,4 @@
-# Portofolio-Projects
-Some mini C# projects that i use as portofolio.
+# Stack
+Stack i made when i was bored.
 
-
-Use branches to circle through  projects.
+Stack using Arrays and Stack using ListNodes.
