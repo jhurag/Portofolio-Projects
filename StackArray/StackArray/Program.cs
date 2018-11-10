@@ -34,7 +34,6 @@ namespace StackArray
             stackList.Pop();
 
             Console.WriteLine(stackList.ToString()); //  2 -> 3 -> *
-
         }
 
     }
