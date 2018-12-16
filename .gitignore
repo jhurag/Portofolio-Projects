@@ -1,0 +1,230 @@
+
+Nox Bot/App.config
+Nox Bot/bin/Debug/Blacklist.json
+Nox Bot/bin/Debug/Newtonsoft.Json.dll
+Nox Bot/bin/Debug/Newtonsoft.Json.xml
+Nox Bot/bin/Debug/Nox Bot.exe
+Nox Bot/bin/Debug/Nox Bot.exe.config
+Nox Bot/bin/Debug/Nox Bot.pdb
+Nox Bot/bin/Debug/TwitchLib.dll
+Nox Bot/bin/Debug/TwitchLib.xml
+Nox Bot/bin/Debug/websocket-sharp.dll
+Nox Bot/MainForm.Designer.cs
+Nox Bot/MainForm.resx
+Nox Bot/Nox Bot.csproj
+Nox Bot/obj/Debug/CoreCompileInputs.cache
+Nox Bot/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+Nox Bot/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+Nox Bot/obj/Debug/Nox Bot.csproj.FileListAbsolute.txt
+Nox Bot/obj/Debug/Nox Bot.csproj.GenerateResource.Cache
+Nox Bot/obj/Debug/Nox Bot.csprojResolveAssemblyReference.cache
+Nox Bot/obj/Debug/Nox Bot.exe
+Nox Bot/obj/Debug/Nox Bot.pdb
+Nox Bot/obj/Debug/Nox_Bot.MainForm.resources
+Nox Bot/obj/Debug/Nox_Bot.Properties.Resources.resources
+Nox Bot/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Nox Bot/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Nox Bot/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Nox Bot/obj/Debug/TempPE/Properties.Resources.Designer.cs.dll
+Nox Bot/packages.config
+Nox Bot/Program.cs
+Nox Bot/Properties/AssemblyInfo.cs
+Nox Bot/Properties/Resources.Designer.cs
+Nox Bot/Properties/Resources.resx
+Nox Bot/Properties/Settings.Designer.cs
+Nox Bot/Properties/Settings.settings
+Nox Bot/Resources/app.manifest
+Nox Bot/Resources/reloadIcon.png
+Nox Bot/Resources/topPanelicon.jpeg
+QueueList/.vs/QueueList/v15/.suo
+QueueList/.vs/QueueList/v15/Server/sqlite3/db.lock
+QueueList/.vs/QueueList/v15/Server/sqlite3/storage.ide
+QueueList/QueueList.sln
+QueueList/QueueList/App.config
+QueueList/QueueList/bin/Debug/QueueList.exe
+QueueList/QueueList/bin/Debug/QueueList.exe.config
+QueueList/QueueList/bin/Debug/QueueList.pdb
+QueueList/QueueList/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+QueueList/QueueList/obj/Debug/QueueList.csproj.CoreCompileInputs.cache
+QueueList/QueueList/obj/Debug/QueueList.csproj.FileListAbsolute.txt
+QueueList/QueueList/obj/Debug/QueueList.csprojAssemblyReference.cache
+QueueList/QueueList/obj/Debug/QueueList.exe
+QueueList/QueueList/obj/Debug/QueueList.pdb
+QueueList/QueueList/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+QueueList/QueueList/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+QueueList/QueueList/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+QueueList/QueueList/Properties/AssemblyInfo.cs
+QueueList/QueueList/QueueList.csproj
+Selection_Sort/.vs/Selection_Sort/DesignTimeBuild/.dtbcache
+Selection_Sort/Selection_Sort/bin/Debug/netcoreapp2.0/Selection_Sort.deps.json
+Selection_Sort/Selection_Sort/bin/Debug/netcoreapp2.0/Selection_Sort.dll
+Selection_Sort/Selection_Sort/bin/Debug/netcoreapp2.0/Selection_Sort.pdb
+Selection_Sort/Selection_Sort/bin/Debug/netcoreapp2.0/Selection_Sort.runtimeconfig.dev.json
+Selection_Sort/Selection_Sort/bin/Debug/netcoreapp2.0/Selection_Sort.runtimeconfig.json
+Selection_Sort/Selection_Sort/obj/Debug/netcoreapp2.0/Selection_Sort.csproj.FileListAbsolute.txt
+Selection_Sort/Selection_Sort/obj/Debug/netcoreapp2.0/Selection_Sort.csprojAssemblyReference.cache
+Selection_Sort/Selection_Sort/obj/Debug/netcoreapp2.0/Selection_Sort.dll
+Selection_Sort/Selection_Sort/obj/Debug/netcoreapp2.0/Selection_Sort.pdb
+SnakeGame/App.config
+SnakeGame/bin/Debug/SnakeGame.exe.config
+SnakeGame/bin/Debug/SnakeGame.pdb
+SnakeGame/Form1.Designer.cs
+SnakeGame/Form1.resx
+SnakeGame/icon.ico
+SnakeGame/obj/Debug/CoreCompileInputs.cache
+SnakeGame/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+SnakeGame/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+SnakeGame/obj/Debug/SnakeGame.csproj.CoreCompileInputs.cache
+SnakeGame/obj/Debug/SnakeGame.csproj.FileListAbsolute.txt
+SnakeGame/obj/Debug/SnakeGame.csproj.GenerateResource.cache
+SnakeGame/obj/Debug/SnakeGame.csprojAssemblyReference.cache
+SnakeGame/obj/Debug/SnakeGame.csprojResolveAssemblyReference.cache
+SnakeGame/obj/Debug/SnakeGame.Form1.resources
+SnakeGame/obj/Debug/SnakeGame.pdb
+SnakeGame/obj/Debug/SnakeGame.Properties.Resources.resources
+SnakeGame/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+SnakeGame/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+SnakeGame/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+SnakeGame/Program.cs
+SnakeGame/Properties/AssemblyInfo.cs
+SnakeGame/Properties/Resources.Designer.cs
+SnakeGame/Properties/Resources.resx
+SnakeGame/Properties/Settings.Designer.cs
+SnakeGame/Properties/Settings.settings
+SnakeGame/SnakeGame.csproj
+SnakeGameTest/
+StackArray/.vs/Stack/v15/.suo
+StackArray/.vs/Stack/v15/Server/sqlite3/db.lock
+StackArray/.vs/Stack/v15/Server/sqlite3/storage.ide
+StackArray/.vs/Stack/v15/Server/sqlite3/storage.ide-shm
+StackArray/.vs/Stack/v15/Server/sqlite3/storage.ide-wal
+StackArray/Stack.sln
+StackArray/StackArray/App.config
+StackArray/StackArray/bin/Debug/StackArray.exe
+StackArray/StackArray/bin/Debug/StackArray.exe.config
+StackArray/StackArray/bin/Debug/StackArray.pdb
+StackArray/StackArray/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+StackArray/StackArray/obj/Debug/Stack.csproj.CoreCompileInputs.cache
+StackArray/StackArray/obj/Debug/Stack.csproj.FileListAbsolute.txt
+StackArray/StackArray/obj/Debug/StackArray.csproj.CoreCompileInputs.cache
+StackArray/StackArray/obj/Debug/StackArray.exe
+StackArray/StackArray/obj/Debug/StackArray.pdb
+StackArray/StackArray/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+StackArray/StackArray/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+StackArray/StackArray/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+StackArray/StackArray/Properties/AssemblyInfo.cs
+StackArray/StackArray/Stack.csproj
+Theather Database/App.config
+Theather Database/B12.mdf
+Theather Database/B12_log.ldf
+Theather Database/B12DataSet.Designer.cs
+Theather Database/B12DataSet.xsc
+Theather Database/B12DataSet.xsd
+Theather Database/B12DataSet.xss
+Theather Database/bin/Debug/B12 - Pozoriste.exe
+Theather Database/bin/Debug/B12 - Pozoriste.exe.config
+Theather Database/bin/Debug/B12 - Pozoriste.pdb
+Theather Database/bin/Debug/B12.mdf
+Theather Database/bin/Debug/B12_log.ldf
+Theather Database/MainForm.Designer.cs
+Theather Database/MainForm.resx
+Theather Database/obj/Debug/B12 - Pozoriste.csproj.CoreCompileInputs.cache
+Theather Database/obj/Debug/B12 - Pozoriste.csproj.FileListAbsolute.txt
+Theather Database/obj/Debug/B12 - Pozoriste.csproj.GenerateResource.cache
+Theather Database/obj/Debug/B12 - Pozoriste.csprojAssemblyReference.cache
+Theather Database/obj/Debug/B12 - Pozoriste.csprojResolveAssemblyReference.cache
+Theather Database/obj/Debug/B12 - Pozoriste.exe
+Theather Database/obj/Debug/B12 - Pozoriste.pdb
+Theather Database/obj/Debug/B12___Pozoriste.KomadiForm.resources
+Theather Database/obj/Debug/B12___Pozoriste.MainForm.resources
+Theather Database/obj/Debug/B12___Pozoriste.PartsForm.resources
+Theather Database/obj/Debug/B12___Pozoriste.PredstaveForm.resources
+Theather Database/obj/Debug/B12___Pozoriste.Properties.Resources.resources
+Theather Database/obj/Debug/B12___Pozoriste.TheaterForm.resources
+Theather Database/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+Theather Database/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+Theather Database/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Theather Database/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Theather Database/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Theather Database/obj/Debug/TempPE/B12DataSet.Designer.cs.dll
+Theather Database/obj/Debug/Theather DataBase.csproj.CoreCompileInputs.cache
+Theather Database/obj/Debug/Theather DataBase.csproj.FileListAbsolute.txt
+Theather Database/obj/Debug/Theather DataBase.csproj.GenerateResource.cache
+Theather Database/PartsForm.Designer.cs
+Theather Database/PartsForm.resx
+Theather Database/Program.cs
+Theather Database/Properties/AssemblyInfo.cs
+Theather Database/Properties/Resources.Designer.cs
+Theather Database/Properties/Resources.resx
+Theather Database/Properties/Settings.Designer.cs
+Theather Database/Properties/Settings.settings
+Theather Database/TheaterForm.Designer.cs
+Theather Database/TheaterForm.resx
+Theather Database/Theather DataBase.csproj
+Theather Database/Theather DataBase.csproj.user
+Bubble Sort/Bubble Sort/obj/project.assets.json
+Bubble Sort/Bubble Sort/obj/Debug/netcoreapp2.0/Bubble Sort.pdb
+Bubble Sort/Bubble Sort/obj/Debug/netcoreapp2.0/Bubble Sort.dll
+Bubble Sort/Bubble Sort/obj/Debug/netcoreapp2.0/Bubble Sort.csprojAssemblyReference.cache
+Bubble Sort/Bubble Sort/obj/Debug/netcoreapp2.0/Bubble Sort.csproj.FileListAbsolute.txt
+Bubble Sort/Bubble Sort/obj/Debug/netcoreapp2.0/Bubble Sort.csproj.CoreCompileInputs.cache
+Bubble Sort/Bubble Sort/obj/Debug/netcoreapp2.0/Bubble Sort.AssemblyInfoInputs.cache
+Bubble Sort/Bubble Sort/obj/Debug/netcoreapp2.0/Bubble Sort.AssemblyInfo.cs
+Bubble Sort/Bubble Sort/obj/Bubble Sort.csproj.nuget.g.targets
+Bubble Sort/Bubble Sort/obj/Bubble Sort.csproj.nuget.g.props
+Bubble Sort/Bubble Sort/obj/Bubble Sort.csproj.nuget.cache
+Bubble Sort/Bubble Sort/BubbleSort.cs
+Bubble Sort/Bubble Sort/Bubble Sort.csproj
+Bubble Sort/Bubble Sort/bin/Debug/netcoreapp2.0/Bubble Sort.runtimeconfig.json
+Bubble Sort/Bubble Sort/bin/Debug/netcoreapp2.0/Bubble Sort.runtimeconfig.dev.json
+Bubble Sort/Bubble Sort/bin/Debug/netcoreapp2.0/Bubble Sort.pdb
+Bubble Sort/Bubble Sort/bin/Debug/netcoreapp2.0/Bubble Sort.dll
+Bubble Sort/Bubble Sort/bin/Debug/netcoreapp2.0/Bubble Sort.deps.json
+Bubble Sort/Bubble Sort.sln
+Bubble Sort/.vs/Bubble Sort/v15/Server/sqlite3/storage.ide-wal
+Bubble Sort/.vs/Bubble Sort/v15/Server/sqlite3/storage.ide-shm
+Bubble Sort/.vs/Bubble Sort/v15/Server/sqlite3/storage.ide
+Bubble Sort/.vs/Bubble Sort/v15/Server/sqlite3/db.lock
+Bubble Sort/.vs/Bubble Sort/v15/.suo
+BarcodeGenerator/BarcodeGenerator/Properties/AssemblyInfo.cs
+BarcodeGenerator/BarcodeGenerator/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+BarcodeGenerator/BarcodeGenerator/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+BarcodeGenerator/BarcodeGenerator/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+BarcodeGenerator/BarcodeGenerator/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+BarcodeGenerator/BarcodeGenerator/obj/Debug/BarcodeGenerator.pdb
+BarcodeGenerator/BarcodeGenerator/obj/Debug/BarcodeGenerator.exe
+BarcodeGenerator/BarcodeGenerator/obj/Debug/BarcodeGenerator.csprojAssemblyReference.cache
+BarcodeGenerator/BarcodeGenerator/obj/Debug/BarcodeGenerator.csproj.FileListAbsolute.txt
+BarcodeGenerator/BarcodeGenerator/obj/Debug/BarcodeGenerator.csproj.CoreCompileInputs.cache
+BarcodeGenerator/BarcodeGenerator/bin/Debug/BarcodeGenerator.pdb
+BarcodeGenerator/BarcodeGenerator/bin/Debug/BarcodeGenerator.exe.config
+BarcodeGenerator/BarcodeGenerator/bin/Debug/BarcodeGenerator.exe
+BarcodeGenerator/BarcodeGenerator/BarcodeGenerator.csproj
+BarcodeGenerator/BarcodeGenerator/App.config
+BarcodeGenerator/BarcodeGenerator.sln
+BarcodeGenerator/.vs/BarcodeGenerator/v15/Server/sqlite3/storage.ide-wal
+BarcodeGenerator/.vs/BarcodeGenerator/v15/Server/sqlite3/storage.ide-shm
+BarcodeGenerator/.vs/BarcodeGenerator/v15/Server/sqlite3/storage.ide
+BarcodeGenerator/.vs/BarcodeGenerator/v15/Server/sqlite3/db.lock
+BarcodeGenerator/.vs/BarcodeGenerator/v15/.suo
+Clovece nezlob se/.vs/Clovece nezlob se/v15/.suo
+Clovece nezlob se/.vs/Clovece nezlob se/v15/Server/sqlite3/db.lock
+Clovece nezlob se/.vs/Clovece nezlob se/v15/Server/sqlite3/storage.ide
+Clovece nezlob se/.vs/Clovece nezlob se/v15/Server/sqlite3/storage.ide-shm
+Clovece nezlob se/.vs/Clovece nezlob se/v15/Server/sqlite3/storage.ide-wal
+Clovece nezlob se/Clovece nezlob se.sln
+Clovece nezlob se/Clovece nezlob se/App.config
+Clovece nezlob se/Clovece nezlob se/bin/Debug/Clovece nezlob se.exe
+Clovece nezlob se/Clovece nezlob se/bin/Debug/Clovece nezlob se.exe.config
+Clovece nezlob se/Clovece nezlob se/bin/Debug/Clovece nezlob se.pdb
+Clovece nezlob se/Clovece nezlob se/Clovece nezlob se.csproj
+Clovece nezlob se/Clovece nezlob se/obj/Debug/Clovece nezlob se.csproj.CoreCompileInputs.cache
+Clovece nezlob se/Clovece nezlob se/obj/Debug/Clovece nezlob se.csproj.FileListAbsolute.txt
+Clovece nezlob se/Clovece nezlob se/obj/Debug/Clovece nezlob se.csprojAssemblyReference.cache
+Clovece nezlob se/Clovece nezlob se/obj/Debug/Clovece nezlob se.exe
+Clovece nezlob se/Clovece nezlob se/obj/Debug/Clovece nezlob se.pdb
+Clovece nezlob se/Clovece nezlob se/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+Clovece nezlob se/Clovece nezlob se/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Clovece nezlob se/Clovece nezlob se/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Clovece nezlob se/Clovece nezlob se/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Clovece nezlob se/Clovece nezlob se/Properties/AssemblyInfo.cs
